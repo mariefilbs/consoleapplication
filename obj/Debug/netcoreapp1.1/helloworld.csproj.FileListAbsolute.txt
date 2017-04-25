@@ -1,0 +1,8 @@
+/Users/mariefilbey/Desktop/helloworld/bin/Debug/netcoreapp1.1/helloworld.deps.json
+/Users/mariefilbey/Desktop/helloworld/bin/Debug/netcoreapp1.1/helloworld.runtimeconfig.json
+/Users/mariefilbey/Desktop/helloworld/bin/Debug/netcoreapp1.1/helloworld.runtimeconfig.dev.json
+/Users/mariefilbey/Desktop/helloworld/bin/Debug/netcoreapp1.1/helloworld.dll
+/Users/mariefilbey/Desktop/helloworld/bin/Debug/netcoreapp1.1/helloworld.pdb
+/Users/mariefilbey/Desktop/helloworld/obj/Debug/netcoreapp1.1/helloworld.AssemblyInfo.cs
+/Users/mariefilbey/Desktop/helloworld/obj/Debug/netcoreapp1.1/helloworld.dll
+/Users/mariefilbey/Desktop/helloworld/obj/Debug/netcoreapp1.1/helloworld.pdb
