@@ -23,6 +23,8 @@ namespace helloworld
             {
                 if (input % x == 0)
                 {
+                    /*from researching, I gathered that I need to translate this
+                    into a List to be comma seperated, but I couldn't quite figure it out in time.*/
                     Console.WriteLine(x);
                 }
             }
@@ -31,8 +33,6 @@ namespace helloworld
             Console.ReadLine();
  
         }
-
- 
     }
   }
  
